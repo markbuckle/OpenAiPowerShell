@@ -1,4 +1,4 @@
-** OpenAI PowerShell Wrappers
+**OpenAI PowerShell Wrappers**
 
 This repository wraps certain OpenAI in PowerShell functions to use directly in PowerShell.
 
